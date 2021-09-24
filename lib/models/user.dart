@@ -29,7 +29,7 @@ class User {
           imageUrl: 'images/4.jpg'),
       User(
           id: 3,
-          nama: 'Byun Baekhyun Oh Sehun Kim Jongdae Kim Kai Xiumin,
+          nama: 'Byun Baekhyun Oh Sehun Kim Jongdae Kim Kai Xiumin',
           email: 'weareone.1408@gmail.com',
           noHP: '089675566853',
           imageUrl: 'images/6.jpg'),
